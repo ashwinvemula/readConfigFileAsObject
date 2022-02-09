@@ -98,5 +98,5 @@ To run this project, you will need to download the project and run without any c
 
 ## Mac
 
-To run this project on Mac OS, you will need to download the project and update the filepaths of JSON files as per Mac Os
+To run this project on Mac OS, you will need to download the project and update the filepaths of JSON files as per Mac OS
 
